@@ -10,7 +10,7 @@ API hecha en .NET 10 que funciona como proxy entre el frontend y la [FakeRestAPI
 ## Cómo correrlo
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/jeriaj9/book-library-backend.git
 cd library-api
 dotnet restore
 dotnet run --project src/Library.Api
